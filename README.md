@@ -1,2 +1,0 @@
-# ADL
-Apache Directory Listing
